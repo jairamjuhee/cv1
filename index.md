@@ -14,10 +14,7 @@
         <h1>Jairam Sundar</h1>
         <p><em>hello........this is </em><strong>Jairam</strong>.Loves to code with a cup of tea ❤️ </p>
         <p>I am from <a href="https://karur.nic.in/">karur</a>..Lighthouse corner</p>
-      </td>
-    </tr>
-
-  </table>
+      
 
   <hr>
   <h3>Education</h3>

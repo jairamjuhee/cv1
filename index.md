@@ -41,9 +41,7 @@
           <li><a href="D:\web\HTML-personal site\school.html">School</a>
         </td>
         <td>2014-2016</td>
-      </tr>
-    </tbody>
-  </table>
+      
   <hr>
   <h3>Skills</h3>
   <table cellspacing="10px">
